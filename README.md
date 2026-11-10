@@ -1,2 +1,2 @@
 # Pocket-Ledger
-My personal expense tracker
+Your personal expense tracker
